@@ -52,13 +52,14 @@ The dataset is anonymized and cannot be shared due to competition and platform r
 ## 📷 Project Screenshots
 
 ### Model Training
-![Model Training](images/model_training.png)
+![Model Training]\https://github.com/Angad2006/health-insurance-claim-prediction/blob/main/Model_training.png
 
 ### Model Evaluation (Gini / AUC)
-![Evaluation](images/evaluation_gini.png)
+![Evaluation]
 
 ---
 
 ## 👤 Author
 **Angat Prajapati**  
 B.Sc. AIML STUDENT
+
