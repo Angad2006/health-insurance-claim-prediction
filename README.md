@@ -56,12 +56,14 @@ The dataset is anonymized and cannot be shared due to competition and platform r
 
 ### Model Evaluation (Gini / AUC)
 ![Evaluation]https://github.com/Angad2006/health-insurance-claim-prediction/blob/main/model_evaluation_metrics.png
-
+### Gini Scores
+![Gini score]
 ---
 
 ## 👤 Author
 **Angat Prajapati**  
 B.Sc. AIML STUDENT
+
 
 
 
